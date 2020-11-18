@@ -1,4 +1,4 @@
-module dm
+module github.com/luochaoqun01/dm
 
 go 1.13
 
