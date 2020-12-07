@@ -7,8 +7,8 @@ package dm
 
 import (
 	"bytes"
-	"dm/i18n"
 	"fmt"
+	"github.com/luochaoqun01/dm/i18n"
 	"runtime"
 )
 

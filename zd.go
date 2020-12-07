@@ -8,7 +8,7 @@ package dm
 import (
 	"context"
 	"database/sql/driver"
-	"dm/util"
+	"github.com/luochaoqun01/dm/util"
 	"reflect"
 	"strconv"
 	"time"

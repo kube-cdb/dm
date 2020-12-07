@@ -6,7 +6,7 @@
 package dm
 
 import (
-	"dm/util"
+	"github.com/luochaoqun01/dm/util"
 	"math"
 	"strconv"
 	"strings"
