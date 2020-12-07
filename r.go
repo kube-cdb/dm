@@ -8,7 +8,7 @@ import (
 	"context"
 	"database/sql"
 	"database/sql/driver"
-	"dm/i18n"
+	"github.com/luochaoqun01/dm/i18n"
 )
 
 // 发版标记

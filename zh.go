@@ -6,7 +6,7 @@ package dm
 
 import (
 	"bytes"
-	"dm/util"
+	"github.com/luochaoqun01/dm/util"
 	"io"
 	"math/big"
 	"strconv"
